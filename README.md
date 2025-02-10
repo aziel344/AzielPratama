@@ -1,5 +1,5 @@
 # AzielPratama
-ini untuk terminator 
+ini untuk terminator ketik diterminal terminator sudo gedit .bashrc
 ################################################################################
 ##  FUNCTIONS                                                                 ##
 ################################################################################
